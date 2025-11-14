@@ -14,5 +14,4 @@ A simple Java mini project demonstrating OOP concepts.
 - Conditional logic
 - Scanner input handling
 
-This project is ideal for showcasing Java hands-on programming skills.
 
